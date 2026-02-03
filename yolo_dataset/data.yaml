@@ -1,0 +1,13 @@
+# YOLOv11 Dataset Configuration
+# Auto-generated from COCO annotations
+
+path: /workspaces/PBC_Object_Detection/yolo_dataset
+train: images/train
+val: images/val
+
+# Class names
+names:
+  0: boat
+
+# Number of classes
+nc: 1
