@@ -1,0 +1,6 @@
+path: /blue/bsc4892/aileenlavelle/PBC_Object_Detection/Jupiter_Inlet/jupiter_inlet_yolo
+train: images/train
+val: images/val
+nc: 1
+names:
+  0: Boat
