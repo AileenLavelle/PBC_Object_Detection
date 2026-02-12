@@ -1,0 +1,20 @@
+
+# training outputs
+runs/
+output/
+sahi_results/
+
+# datasets
+Jupiter_Inlet/
+hard_cases_for_annotation/
+yolo_dataset/
+
+# model weights
+*.pt
+*.pth
+
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
