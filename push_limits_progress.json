@@ -1,0 +1,44 @@
+[
+  {
+    "experiment": "imgsz_3200_100ep",
+    "model": "yolo26s.pt",
+    "imgsz": 3200,
+    "epochs": 100,
+    "batch": 1,
+    "mAP50": 0.7733325578798651,
+    "mAP50-95": 0.38936920651393175,
+    "precision": 0.7980397452488757,
+    "recall": 0.6627450980392157,
+    "training_time_min": 30.4,
+    "best_model_path": "/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_push_limits/imgsz_3200_100ep/weights/best.pt",
+    "status": "success"
+  },
+  {
+    "experiment": "imgsz_2560_150ep",
+    "model": "yolo26s.pt",
+    "imgsz": 2560,
+    "epochs": 150,
+    "batch": 2,
+    "mAP50": 0.8766680756097448,
+    "mAP50-95": 0.43471576850819593,
+    "precision": 0.8671261212974711,
+    "recall": 0.792156862745098,
+    "training_time_min": 27.7,
+    "best_model_path": "/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_push_limits/imgsz_2560_150ep/weights/best.pt",
+    "status": "success"
+  },
+  {
+    "experiment": "imgsz_2560_200ep",
+    "model": "yolo26s.pt",
+    "imgsz": 2560,
+    "epochs": 200,
+    "batch": 2,
+    "mAP50": 0.8188377565012388,
+    "mAP50-95": 0.4038973546513428,
+    "precision": 0.77898809130861,
+    "recall": 0.7764705882352941,
+    "training_time_min": 13.9,
+    "best_model_path": "/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_push_limits/imgsz_2560_200ep/weights/best.pt",
+    "status": "success"
+  }
+]
