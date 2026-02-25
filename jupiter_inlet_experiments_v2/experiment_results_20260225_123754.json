@@ -18,10 +18,7 @@
     "sahi_time_per_img": 0.177,
     "sahi_slice_size": 640,
     "detection_increase": 215,
-    "detection_increase_pct": 93.5,
-    "sahi_precision": 0.5729,
-    "sahi_recall": 0.7403,
-    "sahi_mAP50": 0.6091
+    "detection_increase_pct": 93.5
   },
   {
     "experiment": "imgsz_512",
@@ -42,10 +39,7 @@
     "sahi_time_per_img": 0.16,
     "sahi_slice_size": 512,
     "detection_increase": 204,
-    "detection_increase_pct": 110.9,
-    "sahi_precision": 0.4516,
-    "sahi_recall": 0.5455,
-    "sahi_mAP50": 0.442
+    "detection_increase_pct": 110.9
   },
   {
     "experiment": "imgsz_768",
@@ -66,10 +60,7 @@
     "sahi_time_per_img": 0.219,
     "sahi_slice_size": 768,
     "detection_increase": 102,
-    "detection_increase_pct": 41.3,
-    "sahi_precision": 0.6275,
-    "sahi_recall": 0.7792,
-    "sahi_mAP50": 0.6549
+    "detection_increase_pct": 41.3
   },
   {
     "experiment": "imgsz_1024",
@@ -90,10 +81,7 @@
     "sahi_time_per_img": 0.127,
     "sahi_slice_size": 1024,
     "detection_increase": 50,
-    "detection_increase_pct": 18.7,
-    "sahi_precision": 0.7514,
-    "sahi_recall": 0.8442,
-    "sahi_mAP50": 0.7727
+    "detection_increase_pct": 18.7
   },
   {
     "experiment": "epochs_50",
@@ -114,10 +102,7 @@
     "sahi_time_per_img": 0.174,
     "sahi_slice_size": 640,
     "detection_increase": 334,
-    "detection_increase_pct": 140.3,
-    "sahi_precision": 0.3403,
-    "sahi_recall": 0.737,
-    "sahi_mAP50": 0.5686
+    "detection_increase_pct": 140.3
   },
   {
     "experiment": "epochs_150",
@@ -138,10 +123,7 @@
     "sahi_time_per_img": 0.179,
     "sahi_slice_size": 640,
     "detection_increase": 207,
-    "detection_increase_pct": 103.0,
-    "sahi_precision": 0.5889,
-    "sahi_recall": 0.7208,
-    "sahi_mAP50": 0.6187
+    "detection_increase_pct": 103.0
   },
   {
     "experiment": "epochs_200",
@@ -162,10 +144,7 @@
     "sahi_time_per_img": 0.178,
     "sahi_slice_size": 640,
     "detection_increase": 104,
-    "detection_increase_pct": 59.1,
-    "sahi_precision": 0.7022,
-    "sahi_recall": 0.6737,
-    "sahi_mAP50": 0.5749
+    "detection_increase_pct": 59.1
   },
   {
     "experiment": "model_nano",
@@ -186,10 +165,7 @@
     "sahi_time_per_img": 0.175,
     "sahi_slice_size": 640,
     "detection_increase": 324,
-    "detection_increase_pct": 177.0,
-    "sahi_precision": 0.4074,
-    "sahi_recall": 0.6607,
-    "sahi_mAP50": 0.4572
+    "detection_increase_pct": 177.0
   },
   {
     "experiment": "model_medium",
@@ -210,10 +186,7 @@
     "sahi_time_per_img": 0.19,
     "sahi_slice_size": 640,
     "detection_increase": 201,
-    "detection_increase_pct": 94.4,
-    "sahi_precision": 0.5845,
-    "sahi_recall": 0.724,
-    "sahi_mAP50": 0.6274
+    "detection_increase_pct": 94.4
   },
   {
     "experiment": "model_large",
@@ -234,10 +207,7 @@
     "sahi_time_per_img": 0.197,
     "sahi_slice_size": 640,
     "detection_increase": 142,
-    "detection_increase_pct": 64.3,
-    "sahi_precision": 0.6397,
-    "sahi_recall": 0.7321,
-    "sahi_mAP50": 0.6405
+    "detection_increase_pct": 64.3
   },
   {
     "experiment": "796img_baseline_s_640_e100",
@@ -258,10 +228,7 @@
     "sahi_time_per_img": 0.206,
     "sahi_slice_size": 640,
     "detection_increase": 297,
-    "detection_increase_pct": 51.6,
-    "sahi_precision": 0.5407,
-    "sahi_recall": 0.7662,
-    "sahi_mAP50": 0.6489
+    "detection_increase_pct": 51.6
   },
   {
     "experiment": "796img_imgsz_512",
@@ -282,10 +249,7 @@
     "sahi_time_per_img": 0.195,
     "sahi_slice_size": 512,
     "detection_increase": 645,
-    "detection_increase_pct": 143.7,
-    "sahi_precision": 0.383,
-    "sahi_recall": 0.6802,
-    "sahi_mAP50": 0.4901
+    "detection_increase_pct": 143.7
   },
   {
     "experiment": "796img_imgsz_768",
@@ -306,10 +270,7 @@
     "sahi_time_per_img": 0.253,
     "sahi_slice_size": 768,
     "detection_increase": 392,
-    "detection_increase_pct": 62.8,
-    "sahi_precision": 0.5177,
-    "sahi_recall": 0.8539,
-    "sahi_mAP50": 0.7063
+    "detection_increase_pct": 62.8
   },
   {
     "experiment": "796img_imgsz_1024",
@@ -330,10 +291,7 @@
     "sahi_time_per_img": 0.147,
     "sahi_slice_size": 1024,
     "detection_increase": 359,
-    "detection_increase_pct": 49.7,
-    "sahi_precision": 0.4991,
-    "sahi_recall": 0.8766,
-    "sahi_mAP50": 0.754
+    "detection_increase_pct": 49.7
   },
   {
     "experiment": "796img_epochs_50",
@@ -354,10 +312,7 @@
     "sahi_time_per_img": 0.194,
     "sahi_slice_size": 640,
     "detection_increase": 460,
-    "detection_increase_pct": 89.3,
-    "sahi_precision": 0.4769,
-    "sahi_recall": 0.7549,
-    "sahi_mAP50": 0.6087
+    "detection_increase_pct": 89.3
   },
   {
     "experiment": "796img_epochs_150",
@@ -378,10 +333,7 @@
     "sahi_time_per_img": 0.19,
     "sahi_slice_size": 640,
     "detection_increase": 501,
-    "detection_increase_pct": 90.1,
-    "sahi_precision": 0.4541,
-    "sahi_recall": 0.7792,
-    "sahi_mAP50": 0.604
+    "detection_increase_pct": 90.1
   },
   {
     "experiment": "796img_epochs_200",
@@ -402,10 +354,7 @@
     "sahi_time_per_img": 0.189,
     "sahi_slice_size": 640,
     "detection_increase": 363,
-    "detection_increase_pct": 64.1,
-    "sahi_precision": 0.5005,
-    "sahi_recall": 0.7549,
-    "sahi_mAP50": 0.599
+    "detection_increase_pct": 64.1
   },
   {
     "experiment": "796img_model_nano",
@@ -426,10 +375,7 @@
     "sahi_time_per_img": 0.19,
     "sahi_slice_size": 640,
     "detection_increase": 762,
-    "detection_increase_pct": 153.6,
-    "sahi_precision": 0.3378,
-    "sahi_recall": 0.6899,
-    "sahi_mAP50": 0.4496
+    "detection_increase_pct": 153.6
   },
   {
     "experiment": "796img_model_medium",
@@ -450,10 +396,7 @@
     "sahi_time_per_img": 0.197,
     "sahi_slice_size": 640,
     "detection_increase": 273,
-    "detection_increase_pct": 48.9,
-    "sahi_precision": 0.5728,
-    "sahi_recall": 0.7727,
-    "sahi_mAP50": 0.6321
+    "detection_increase_pct": 48.9
   },
   {
     "experiment": "796img_model_large",
@@ -474,9 +417,6 @@
     "sahi_time_per_img": 0.213,
     "sahi_slice_size": 640,
     "detection_increase": 451,
-    "detection_increase_pct": 86.6,
-    "sahi_precision": 0.4774,
-    "sahi_recall": 0.7532,
-    "sahi_mAP50": 0.6049
+    "detection_increase_pct": 86.6
   }
 ]
