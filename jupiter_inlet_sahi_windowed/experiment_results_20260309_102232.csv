@@ -1,0 +1,12 @@
+experiment,model,imgsz,epochs,batch,mAP50,mAP50-95,precision,recall,best_model_path,status,sahi_mAP50
+sahi_clean_epochs_1502,unknown,1024,150,-1,0.9599,0.6395,0.92297,0.93698,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_clean_epochs_1502/weights/best.pt,success,
+sahi_clean_epochs_1503,unknown,1024,1,-1,0.67891,0.30887,0.76589,0.58765,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_clean_epochs_1503/weights/best.pt,success,
+sahi_window_baseline_s_e100,unknown,1024,100,-1,0.95794,0.61404,0.93151,0.92462,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_baseline_s_e100/weights/best.pt,success,
+sahi_window_epochs_150,unknown,1024,118,-1,0.92002,0.46884,0.89062,0.86071,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_epochs_150/weights/best.pt,success,
+sahi_window_epochs_200,unknown,1024,200,-1,0.96543,0.65514,0.93889,0.94098,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_epochs_200/weights/best.pt,success,
+sahi_window_epochs_2002,unknown,1024,156,-1,0.92145,0.47559,0.87842,0.86913,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_epochs_2002/weights/best.pt,success,
+sahi_window_epochs_50,unknown,1024,50,-1,0.94806,0.57401,0.90811,0.90872,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_epochs_50/weights/best.pt,success,
+sahi_window_model_large,unknown,1024,150,-1,0.96528,0.66748,0.95168,0.92521,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_model_large/weights/best.pt,success,
+sahi_window_model_medium,unknown,1024,150,-1,0.96216,0.65704,0.94024,0.92049,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_model_medium/weights/best.pt,success,
+sahi_window_model_nano,unknown,1024,150,-1,0.96457,0.65069,0.93428,0.93764,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_model_nano/weights/best.pt,success,
+sahi_window_model_nano2,unknown,1024,100,-1,0.91051,0.47189,0.8769,0.85822,/blue/bsc4892/aileenlavelle/PBC_Object_Detection/runs/detect/jupiter_inlet_sahi_windowed/sahi_window_model_nano2/weights/best.pt,success,

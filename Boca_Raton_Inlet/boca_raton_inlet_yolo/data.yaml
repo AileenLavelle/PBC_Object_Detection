@@ -1,0 +1,6 @@
+path: /blue/bsc4892/aileenlavelle/PBC_Object_Detection/Boca_Raton_Inlet/boca_raton_inlet_yolo
+train: images/train
+val:   images/val
+
+nc: 16
+names: ['Boat', 'Bowrider', 'Cabin_Cruiser', 'Cargo_ship', 'Center_Console_L', 'Center_Console_M', 'Center_Console_S', 'Charter_Fishing_Boat', 'Cruising_Yacht', 'Dredge_Boat', 'Jet_Boat', 'Jetski', 'Pontoon_Boat', 'Sail_Boat', 'Skiff', 'Sport_Fishing_Boat']
